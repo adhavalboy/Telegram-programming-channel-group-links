@@ -15,6 +15,8 @@
 
 [Tech Guide](https://web.telegram.org/#/im?p=@TechGuide)
 
+[iOS dev](https://web.telegram.org/#/im?p=@iosdevio)
+
 # *Groups*
 
 [Programming Buddy Club](https://web.telegram.org/#/im?p=@programmingBuddyClubChat)
