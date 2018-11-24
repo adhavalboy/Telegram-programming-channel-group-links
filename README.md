@@ -16,3 +16,5 @@
 # *Groups*
 
 [Programming Buddy Club](https://web.telegram.org/#/im?p=@programmingBuddyClubChat)
+
+[codeforces](https://web.telegram.org/#/im?p=@CodeForcesGroup)
