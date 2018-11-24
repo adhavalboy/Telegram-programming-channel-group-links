@@ -13,8 +13,15 @@
 
 [AyAz_TeChY](https://web.telegram.org/#/im?p=@AyAz_TeChY)
 
+[Tech Guide](https://web.telegram.org/#/im?p=@TechGuide)
+
 # *Groups*
 
 [Programming Buddy Club](https://web.telegram.org/#/im?p=@programmingBuddyClubChat)
 
 [codeforces](https://web.telegram.org/#/im?p=@CodeForcesGroup)
+
+[c/c++](https://web.telegram.org/#/im?p=@programminginc)
+
+[The Art of Programming](https://web.telegram.org/#/im?p=@theprogrammingartgroup)
+
