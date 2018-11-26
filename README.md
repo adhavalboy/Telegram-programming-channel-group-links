@@ -19,6 +19,13 @@
 
 [The Devs](https://web.telegram.org/#/im?p=@thedevs)
 
+[Flutter Dev](https://web.telegram.org/#/im?p=@flutterDev)
+
+[Web Dev](https://web.telegram.org/#/im?p=@webdev_eng)
+
+[Windows Software](https://web.telegram.org/#/im?p=@windows_softwares)
+
+
 # *Groups*
 
 [Programming Buddy Club](https://web.telegram.org/#/im?p=@programmingBuddyClubChat)
@@ -30,3 +37,5 @@
 [The Art of Programming](https://web.telegram.org/#/im?p=@theprogrammingartgroup)
 
 [Dart / flutter](https://web.telegram.org/#/im?p=@dartlang_group)
+
+[Python Programmers](https://web.telegram.org/#/im?p=@PythonforAll)
