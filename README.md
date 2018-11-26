@@ -29,4 +29,4 @@
 
 [The Art of Programming](https://web.telegram.org/#/im?p=@theprogrammingartgroup)
 
-[Dart / fultter](https://web.telegram.org/#/im?p=@dartlang_group)
+[Dart / flutter](https://web.telegram.org/#/im?p=@dartlang_group)
