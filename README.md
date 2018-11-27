@@ -25,6 +25,7 @@
 
 [Windows Software](https://web.telegram.org/#/im?p=@windows_softwares)
 
+[Programming Tips ](https://web.telegram.org/#/im?p=@ProgrammingTip)
 
 # *Groups*
 
