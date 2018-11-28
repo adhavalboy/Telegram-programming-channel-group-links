@@ -27,6 +27,8 @@
 
 [Programming Tips ](https://web.telegram.org/#/im?p=@ProgrammingTip)
 
+[Programming eBooks](https://web.telegram.org/#/im?p=@javaebooks)
+
 # *Groups*
 
 [Programming Buddy Club](https://web.telegram.org/#/im?p=@programmingBuddyClubChat)
